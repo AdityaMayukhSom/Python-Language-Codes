@@ -20,5 +20,9 @@ def getInput(name):
 
 
 getInput('Aditya')
+getInput('Roheena')
+getInput('Rima')
 getInput('Dipta')
 getInput('Aashmita')
+getInput('Debosmita')
+getInput('Reshmi')
